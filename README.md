@@ -19,5 +19,5 @@ find the description of all the tables, attributes, etc.
 # SQL code
 
 Repeatable code was used to establish the database. Any future corrections and editions to the database are easily implemented this way.
-The code is labeled as deliverable 2
+The code is labeled as NFL betting
 
